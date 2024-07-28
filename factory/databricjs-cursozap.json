@@ -1,0 +1,9 @@
+{
+	"name": "databricjs-cursozap",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "31ab2200-f216-4168-8cdc-f146301f4e3c",
+		"tenantId": "8b794717-545c-49d1-8677-d6d4522d9107"
+	}
+}
